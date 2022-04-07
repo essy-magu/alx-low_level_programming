@@ -1,8 +1,13 @@
 #include <stdio.h>
-/*entry point*/
+/*
+ * prints something
+ *@txt: the text
+ *Return: 0
+ */
 int main(void)
 {
-/*main.c*/
-puts("\"Programming is like building a multilingual puzzle");
+	char txt;
+	txt = "\"Programming is like building a multilingual puzzle";
+puts(txt);
 return (0);
 }
