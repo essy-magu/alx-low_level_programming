@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/**
  * prints something
  *@txt: the text
  *Return: 0
