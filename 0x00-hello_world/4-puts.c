@@ -1,12 +1,10 @@
 #include <stdio.h>
 /**
- * prints something
- *@txt: the text
- *Return: 0
+ *main - Prints some text
  */
 int main(void)/*prints*/
 {
 /*prints*//*prints*/
-puts("\"Programming is like building a multilingual puzzle");
-return (0);
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
 }
